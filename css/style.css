@@ -1,0 +1,13 @@
+body {
+    width: 210mm;
+    height: 297mm;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+h1 {
+    font-size: 15px;
+    color: orange;
+}
