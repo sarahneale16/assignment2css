@@ -1,6 +1,6 @@
 body {
     width: 740px;
-    height: 890px;
+    height: 900px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
@@ -11,12 +11,15 @@ h1 {
     font-size: 15px;
     color: orange;
 }
+span {
+    color: orange;
+}
 h2 {
-    font-size: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 #header {
-    font-size: 24px;
+    font-size: 50px;
     font-weight: bold;
 }
 #paragraph1 {
